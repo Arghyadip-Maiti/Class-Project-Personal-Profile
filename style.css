@@ -7,6 +7,9 @@ body {
   color: #f0d5d8;
   line-height: 1.6;
 }
+html{
+  scroll-behavior: smooth;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
