@@ -308,6 +308,20 @@ button:hover{
   border: 1px solid #f0d5d8;
   margin: 3px;
 }
+.pro-btn>button{
+  height: 48px;
+  width: 164px;
+  margin-top: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 24px;
+  font-size: 16px;
+  font-family: "Bangers", system-ui;
+  font-weight: 350;
+  font-style: normal;
+  margin: 3px;
+  color: #f0d5d8;
+}
 .contact-info{
   display: flex;
   justify-content: space-around;
